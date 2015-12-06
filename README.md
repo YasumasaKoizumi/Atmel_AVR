@@ -1,4 +1,4 @@
-# Atmel_AVR
+﻿# Atmel_AVR
 AVR Microcontroller
 
 ---------------------------------
@@ -7,3 +7,4 @@ AVR Microcontroller
 #やっと使い方がわかってきた
 #Log inn passwordが間違っていたようだ。
 #プル→変更→コミット→プッシュってやるんだな。
+#異なるnote pcで作業してみた。
